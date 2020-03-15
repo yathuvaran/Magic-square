@@ -11,7 +11,7 @@ an n x n square such that all rows, columns and both diagonals sum to the same n
 ### Getting started
 To get the game started, run the MagicSquareController class as a Java Application. Or, run the Magic-square.jar file. You will be greeted with an empty grid.
 
-![picture](Images/screenshot1.png)
+![picture](images/screenshot1.png)
 
 ### Interacting with the game
 
