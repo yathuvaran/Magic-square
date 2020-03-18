@@ -17,7 +17,7 @@ To get the game started, run the MagicSquareController class as a Java Applicati
 
 User input is processed via mouse. To place your number, simply click on an empty grid square. A message box will pop-up asking the user to input a number. The user types their number in the textfield and selects "ok" to place it. The user can also place a new number in place of another on the grid.
 
-![picture](Images/screenshot2.png)
+![picture](images/screenshot2.png)
 
 ### Class description
 
