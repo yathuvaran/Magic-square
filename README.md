@@ -19,6 +19,8 @@ User input is processed via mouse. To place your number, simply click on an empt
 
 ![picture](images/screenshot2.png)
 
+![picture](images/screenshot3.png)
+
 ### Class description
 
 ```
